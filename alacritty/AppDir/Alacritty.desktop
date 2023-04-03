@@ -1,1 +1,19 @@
-usr/share/applications/Alacritty.desktop
+[Desktop Entry]
+Type=Application
+TryExec=alacritty
+Exec=alacritty
+Icon=Alacritty
+Terminal=false
+Categories=System;TerminalEmulator;
+
+Name=Alacritty
+GenericName=Terminal
+Comment=A fast, cross-platform, OpenGL terminal emulator
+StartupWMClass=Alacritty
+Actions=New;
+
+X-AppImage-Version=2a7376b
+
+[Desktop Action New]
+Name=New Terminal
+Exec=alacritty
