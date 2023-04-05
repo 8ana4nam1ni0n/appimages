@@ -12,7 +12,7 @@ Comment=A fast, cross-platform, OpenGL terminal emulator
 StartupWMClass=Alacritty
 Actions=New;
 
-X-AppImage-Version=5dd6375
+X-AppImage-Version=09d0524
 
 [Desktop Action New]
 Name=New Terminal
